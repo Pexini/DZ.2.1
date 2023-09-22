@@ -12,7 +12,7 @@ class CallbackTest {
     @Test
     void shouldTest() {
         WebDriver driver = new ChromeDriver();
-        driver.get ("http://localhost:9999/");
+        driver.get("http://localhost:9999/");
     }
 }
 
